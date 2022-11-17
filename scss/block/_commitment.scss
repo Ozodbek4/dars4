@@ -1,0 +1,25 @@
+.commitment__container{
+    padding-top: 168px;
+    width: 1110px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.commitment__title{
+    font-family: 'Fraunces';
+    width: 357px;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #333D4B;
+    margin-bottom: 32px;
+}
+.commitment__text{
+    width: 540px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}

@@ -1,0 +1,35 @@
+.quality{
+    padding-top: 256px;
+}
+.quality__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1280px;
+    padding: 0 85px 88px 85px;
+    background-color: #2A3038;
+    border-radius: 10px;
+}
+.quality__title{
+    font-family: 'Fraunces';
+    width: 517px;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+    margin-bottom: 32px;
+}
+.quality__text{
+    width: 540px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    opacity: 0.8;
+}
+.quality__img{
+    position: relative;
+    top: -88px;
+    z-index: 2;
+    border-radius: 10px;
+}

@@ -1,0 +1,36 @@
+.headquarter__container{
+    padding-top: 168px;
+    width: 1045px;
+    margin-bottom: 168px;
+}
+.headquarter__title{
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+    margin-bottom: 72px;
+    
+}
+.headquarter__list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.headquarter__img{
+    margin-bottom: 46px;
+}
+.headquarter__subtitle{
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+    margin-bottom: 24px;
+}
+.headquarter__inneritem{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}
